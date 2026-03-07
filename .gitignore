@@ -44,7 +44,7 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# Signing
-android/key.properties
-*.jks
-*.keystore
+# Signing (uncomment below to exclude from repo)
+# android/key.properties
+# *.jks
+# *.keystore
